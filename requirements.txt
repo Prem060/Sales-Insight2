@@ -1,0 +1,6 @@
+flask
+os
+pandas
+matplotlib
+base64
+flask_socketio
